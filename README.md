@@ -1,5 +1,7 @@
 # CPSC427-Windfall
 CPSC 427 project. A turn-based action game with minor free-roaming elements.
+Due to the size of the file, I have attached a google drive link to view the codebase.
+https://drive.google.com/file/d/1IV_0qu_sg2n7_R2auwnor8q6uPGNU9lP/view?usp=sharing
 
 # Team 08 (Madbep)
 Mars Wang
