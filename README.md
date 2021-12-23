@@ -14,6 +14,8 @@ Parth Garg
 # Description
 Windfall: A game made by a group of talented six.
 
+Windfall is a turn-based action game with minor free-roaming elements, where the player can choose to use different abilities during the battle. There is a tutorial at the beginning to teach the player how to play, and there are dialogues throughout the game to describe the background and lore of the game. After the tutorial, the player has to command his companions and fight through 3 levels to defeat the necromancer boss, who has 2 phases. The player can save the game and come back to it later. Between the battle levels, there are two free-roam levels where the player can move around and explore the environment. There are chests in these levels for them to grab stat boosts to aid them in their later battles. The game has a full beginning, story, and conclusion. There is also a custom mode called "Makeup Mode", where it becomes an arena-style game and the player can choose the characters they used and also the enemies they fight.
+
 Main game elements which I worked on and implemented:
 - Collision detection for the characters and boundary.
 - Turn system.
