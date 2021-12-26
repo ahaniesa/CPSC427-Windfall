@@ -1,16 +1,16 @@
 # CPSC427-Windfall
-CPSC 427 project. A turn-based action game with minor free-roaming elements.
-Due to the size of the file, I have attached a google drive link to view the codebase.
-https://drive.google.com/file/d/1IV_0qu_sg2n7_R2auwnor8q6uPGNU9lP/view?usp=sharing
-Here is the link for a short video demonstrating the game from start to finish.
+CPSC 427 project. A turn-based action game with minor free-roaming elements. <br />
+Due to the size of the file, I have attached a google drive link to view the codebase. <br />
+https://drive.google.com/file/d/1IV_0qu_sg2n7_R2auwnor8q6uPGNU9lP/view?usp=sharing <br />
+Here is the link for a short video demonstrating the game from start to finish. <br />
 https://drive.google.com/file/d/16dU4Cv_WWcYln5W-T1BLL3pct4xByOAG/view?usp=sharing
 
 # Team 08 (Madbep)
-Mars Wang
-Alice Huang
-David Cai
-Burcu Gorgulicten
-Esa Ahani
+Mars Wang <br />
+Alice Huang <br />
+David Cai <br />
+Burcu Gorgulicten <br />
+Esa Ahani <br />
 Parth Garg
 
 # Description
